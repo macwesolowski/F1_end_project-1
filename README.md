@@ -71,4 +71,5 @@ b.	b) Insert the last race number you would like to add to the database. It will
 a.	Execute the file
 b.	b) Insert the sprint number associated with the race. If there was a sprint with the 4th race, type 4, and it will add the sprint results to the database with an 's' on the ID number.
 
- 
+ Homepage:
+ ![homepage1](https://github.com/annnevvv/F1_end_project/assets/118659024/0ab715b5-dc8d-4ca7-978b-6eaeef91049c)
